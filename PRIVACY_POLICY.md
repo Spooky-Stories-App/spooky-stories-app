@@ -1,6 +1,6 @@
 # Privacy Policy — Spooky Stories
 
-**Last updated:** March 23, 2026  
+**Last updated:** April 10, 2026  
 
 **Applies to:** the Spooky Stories game as distributed for **Android** (Google Play).
 
@@ -16,7 +16,7 @@ Spooky Stories is designed to work **without accounts, sign-in, or our servers**
 
 The app is published as **Spooky Stories** (package / listing identifiers may include `com.spookystories.app` on Android).  
 
-**Contact:**
+**Contact:**  
 spooky-stories-app@googlegroups.com
 
 ---
@@ -26,7 +26,7 @@ spooky-stories-app@googlegroups.com
 ### Data stored locally on your device
 
 - **Game state:** current card index, shuffled deck order, and optional **saved games** (story progress) are stored using **browser or WebView storage** (e.g. `localStorage` in the web/extension build, equivalent storage in the embedded WebView on Android).
-- **Same-deck codes:** if you enter or generate a shared play code, it is used **only on-device** to derive a deck order; it is **not** sent to us.
+- **Shared deck data:** if you generate a QR code, share link, or legacy four-letter code, that data is used **only on-device** (or between devices you choose, e.g. messaging apps) to recreate a deck order. It is **not** sent to our servers—we do not operate gameplay backends for these features.
 
 We **do not** receive this data on our own systems because **we do not operate a backend** for gameplay in the builds described above.
 
@@ -63,7 +63,7 @@ We do not control those features.
 
 ## Children’s privacy
 
-The game is a **light spooky storytelling party game** (not graphic violence). It is **not** directed at collecting information from children. We do not knowingly ask children for personal information. If you believe we have inadvertently collected such information, contact us via the GitHub repository above.
+The game is a **light spooky storytelling party game** (not graphic violence). It is **not** directed at collecting information from children. We do not knowingly ask children for personal information. If you believe we have inadvertently collected such information, contact us at the email address above.
 
 ---
 
@@ -81,7 +81,7 @@ We may update this policy when the app or store requirements change. The **“La
 
 ## Your rights
 
-Depending on where you live (for example the **EEA** or **UK**), you may have rights to access, correct, delete, or restrict processing of personal data. **Because we do not operate a central account system or receive your gameplay data**, most requests are best handled **on your device** (clear app data / uninstall / clear extension storage) or with **Google** for Play or account-related processing.
+Depending on where you live (for example the **EEA** or **UK**), you may have rights to access, correct, delete, or restrict processing of personal data. **Because we do not operate a central account system or receive your gameplay data**, most requests are best handled **on your device** (clear app data / uninstall) or with **Google** for Play or account-related processing.
 
 For questions, contact the email address above.
 
